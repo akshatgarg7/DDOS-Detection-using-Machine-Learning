@@ -6,6 +6,8 @@ Made by ->
 3) Bharadwaj Sharma Kasturi  bk5953@rit.edu
 4) Megha Gupta mg9428@rit.edu
 
+Dataset: Data set link can be found in Dataset folder
+
 Language and version: Python 3.x
 
 Packages: numpy, pandas, sklearn, matplotlib
