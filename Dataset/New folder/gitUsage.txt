@@ -1,0 +1,3 @@
+Git commands and usage
+
+git checkout -b "branch_name"
