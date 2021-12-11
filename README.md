@@ -14,3 +14,8 @@ Packages: numpy, pandas, sklearn, matplotlib, seaborn, zipfile, urllib, sklearn,
 
 Platforms: Google Colab, Jupyter Notebook, IDLE
 
+Techniques: Decision tree, Naive Bayes, Random Forest, Logistic Regression
+
+.ipynb file has all the machine learning model we applied. 
+
+.py is converted .ipynb to python .py file.
